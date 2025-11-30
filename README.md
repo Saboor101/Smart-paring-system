@@ -1,2 +1,2 @@
-# Smart-paring-system
-This is a smart paring system using OpenCV
+# Smart-parking-system
+This is a smart parking system using OpenCV.
